@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public static class RotateVector2
+public static class Vector2Extensions
 {
     public static Vector2 Rotate(this Vector2 vector, float degrees)
     {
